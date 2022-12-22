@@ -31,6 +31,29 @@ public class School {
     Kathigitis k5 = new Kathigitis("Fluffy","Gewrgioy",483274, m5);
     
     Mathima[] mathimata = new Mathima[5];
+    
+    Mathitis M1 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M2 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M3 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M4 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M5 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M6 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M7 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M8 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M9 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M10 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M11 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M12 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M13 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M14 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M15 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M16 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M17 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M18 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M19 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    Mathitis M20 = new Mathitis("Leonidas","Gewrgiou",4324,mathimata);
+    
+    
   
 }
 
