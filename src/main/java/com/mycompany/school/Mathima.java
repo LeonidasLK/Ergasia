@@ -50,31 +50,53 @@ public class Mathima {
         this.perigrafi = perigrafi;
     }
     
-    private Taksi taksi;
+    private Taksi[] taksi;
 
     /**
      * Get the value of taksi
      *
      * @return the value of taksi
      */
-    public Taksi getTaksi() {
+    public Taksi[] getTaksi() {
         return taksi;
     }
     
+    private Kathigitis[] kathigitis;
+
+    /**
+     * Get the value of kathigitis
+     *
+     * @return the value of kathigitis
+     */
+    
+    public Kathigitis[] getKathigitis() {
+        return kathigitis;
+    }
+
+    /**
+     * Set the value of kathigitis
+     *
+     * @param kathigitis new value of kathigitis
+     */
+    public void setKathigitis(Kathigitis[] kathigitis) {
+        this.kathigitis = kathigitis;
+    }
 
     /**
      * Set the value of taksi
      *
      * @param taksi new value of taksi
      */
-    public void setTaksi(Taksi taksi) {
+    public void setTaksi(Taksi[] taksi) {
         this.taksi = taksi;
     }
 
     public Mathima(String kwdikosMathimatos, String perigrafi, Taksi taksi) {
         this.kwdikosMathimatos = kwdikosMathimatos;
         this.perigrafi = perigrafi;
-        this.taksi = taksi;
+        this.taksi = new Taksi[1];
+        this.kathigitis = new Kathigitis[1];
+        
     }
 
 
